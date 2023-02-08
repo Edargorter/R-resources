@@ -7,7 +7,7 @@ Rcpp::sourceCpp("zach.cpp")
 # everything is a vector
 # make a vector of size 100
 # index is based (in R), and correctly zero based in Rcpp
-v <- runif(n = 10)  # Rob always prefers the assignment operator
+v <- runif(n = 10)  
 # v = runif(n = 10) # this, is clearly ambiguous in R.
 
 data.frame(n = v, mn = -v) # r is expecting the columns to be the same size
