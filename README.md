@@ -15,3 +15,7 @@ https://ggplot2-book.org/
 ### Financial analysis
 
 https://openstax.org/books/principles-finance/pages/13-7-the-r-statistical-analysis-tool
+
+### Data Science
+
+https://srdas.github.io/MLBook/
